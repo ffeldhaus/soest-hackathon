@@ -3,4 +3,4 @@ image:
 
 tasks:
   - init: jupyter
-    command: 'jupyter notebook'
+    command: jupyter notebook --NotebookApp.allow_origin=\'$(gp url 8888)\'
