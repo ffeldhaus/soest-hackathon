@@ -1,6 +1,0 @@
-image:
-  file: .gitpod.Dockerfile
-
-tasks:
-  - init: jupyter
-    command: jupyter notebook --NotebookApp.allow_origin=\'$(gp url 8888)\'
