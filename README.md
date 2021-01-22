@@ -27,10 +27,6 @@ Jupyter Notebooks können in verschiedenen Umgebungen genutzt werden. Hier zwei 
   - Sessions werden nach 10 Minuten inaktivität beendet
   - Sessions bleiben aktiv, solange das Browser Tab aktiv und im Vordergrund ist
   - Modifikationen können nur manuell im Browser gespeichert werden
-- Colab
-  - Benötigt einen Google Account
-  - Sessions werden nach 90 Minuten inaktivität beendet, maximal jedoch nach 12 Stunden
-  - Daten werden automatisch in Google Drive gespeichert
 
 ### Nutzung von Binder
 
@@ -42,15 +38,4 @@ https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=notebook.ipyn
 
 - Öffne das Jupyter Notebook über den oben stehenden Binder Link
 - Ändere den *Cell Type* der angezeigten *Cell* auf *Markdown*
-- Schreibe ein *Hello World* Beispiel in Markdown
-
-### Nutzung von Colab
-
-Eine Colab Instanz für diesen Hackathon kann einfach gestartet werden über:
-https://colab.sandbox.google.com/github/ffeldhaus/soest-hackathon/blob/master/notebook.ipynb
-
-#### Aufgaben
-
-- Öffne das Jupyter Notebook über den oben stehenden Colab Link
-- Lösche die aktuelle *Cell* und füge eine *Text Cell* hinzu
 - Schreibe ein *Hello World* Beispiel in Markdown
