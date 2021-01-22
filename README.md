@@ -21,9 +21,9 @@ Es wird empfohlen ein [Markdown Tutorial](https://drdanielappel.de/tipps-tools/m
 
 Es wird empfohlen das [Jupyter Tutorial](https://jupyter-tutorial.readthedocs.io/de/latest/intro.html) durchzugehen.
 
-Jupyter Notebooks können in verschiedenen Umgebungen genutzt werden. Hier zwei Beispiele:
+Jupyter Notebooks können in verschiedenen Umgebungen genutzt werden. Für diesen Hackathon werden wir Binder verwenden, da es komplett kostenlos ist und keinen Account benötigt.
 
-- Binder - komplett kostenlos, benötigt keinen Account
+Binder hat folgende Einschränkungen, die beachtet werden sollten:
   - Sessions werden nach 10 Minuten inaktivität beendet
   - Sessions bleiben aktiv, solange das Browser Tab aktiv und im Vordergrund ist
   - Modifikationen können nur manuell im Browser gespeichert werden
