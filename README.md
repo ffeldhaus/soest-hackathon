@@ -32,7 +32,7 @@ Binder hat folgende Einschränkungen, die beachtet werden sollten:
 
 Ein leeres Jupyter Notebook für diesen Hackathon kann einfach über folgenden Link gestartet werden: 
 
-[`notebook.ipynb` in Binder öffnen](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=beispiele/notebook.ipynb)
+[`notebook.ipynb` in Binder öffnen](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=notebook.ipynb)
 
 #### Aufgaben
 
