@@ -39,5 +39,7 @@ https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=notebook.ipyn
 - Öffne das Jupyter Notebook über den oben stehenden Binder Link
 - Ändere den *Cell Type* der angezeigten *Cell* auf *Markdown*
 - Schreibe ein *Hallo Welt* Beispiel in Markdown
-- Führe das Beispiel mit "Run" aus und verifiziere, dass die Markdown Formatierung korrekt angezeigt wird
+- Führe das Beispiel mit *Run* aus und verifiziere, dass die Markdown Formatierung korrekt angezeigt wird
 - Speichere das Resultat im Browser Storage dann ändere etwas und lade dann die vorherige Version aus dem Browser Storage
+
+Im Unterverzeichnis [`beispiele`](beispiele) gibt es ein [`hallo_welt.ipynb`](beispiele/hallo_welt.ipynb) notebook als Beispiel für diese Aufgabe. Es kann über [diesen Link in Binder geöffnet werden](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=beispiele/hallo_welt.ipynb).
