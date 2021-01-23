@@ -45,3 +45,11 @@ Ein leeres Jupyter Notebook für diesen Hackathon kann einfach über folgenden L
 Im Unterverzeichnis [`beispiele`](beispiele) gibt es ein [`hallo_welt.ipynb`](beispiele/hallo_welt.ipynb) Jupyter Notebook als Beispiel für diese Aufgabe. Es kann über folgenden Link in Binder geöffnet werden:
 
 [`hallo_welt.ipynb` in Binder öffnen](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=beispiele/hallo_welt.ipynb)
+
+## Python
+
+Python ist eine weit verbreitete, einfach zu erlernden Programmiersprache welche insbesondere in der Datenanalyse weit verbreitet ist. Es gibt viele Einführungen und Tutorials wir werden uns jedoch auf die wesentlichen Informationen beschränken um Daten analysieren und visualisieren zu können. Für weitergehende Informationen wird das offizielle (englischsprachige) [The Python Tutorial](https://docs.python.org/3/tutorial/) empfohlen.
+
+Das Python Tutorial für diesen Hackathon findet sich im [`python_tutorial.ipynb`](beispiele/python_tutiral.ipynb) Jupyter Notebook und kann über folgenden Link in Binder geöffnet werden:
+
+[`python_tutorial.ipynb` in Binder öffnen](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=beispiele/python_tutorial.ipynb)
