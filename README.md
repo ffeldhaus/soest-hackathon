@@ -19,6 +19,8 @@ Es wird empfohlen ein [Markdown Tutorial](https://drdanielappel.de/tipps-tools/m
 
 ## Jupyter Notebooks
 
+Jupyter Notebooks ermöglichen es, Informationen mit Markdown zu beschreiben sowie Programmiercode zu schreiben, auszuführen und Daten zu visualisieren. Jupyter Notebooks können jederzeit mit neuen Daten ausgeführt werden und bieten somit eine interaktive Dokumentation, lassen sich gut in einer Versionsverwaltung speichern und können einfach mit anderen geteilt werden.
+
 Es wird empfohlen das [Jupyter Tutorial](https://jupyter-tutorial.readthedocs.io/de/latest/intro.html) durchzugehen.
 
 Jupyter Notebooks können in verschiedenen Umgebungen genutzt werden. Für diesen Hackathon werden wir Binder verwenden, da es komplett kostenlos ist und keinen Account benötigt.
