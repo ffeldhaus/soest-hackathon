@@ -1,5 +1,7 @@
 # Soest Hackathon
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?urlpath=lab/tree/README.md)
+
 In diesem Hackathon werden folgende Themen erklärt und gemeinsam ausprobiert:
 
 - Einführung in [Jupyter Notebooks](https://jupyter-tutorial.readthedocs.io/de/latest/intro.html) und warum  sie hilfreich bei der Datenanalyse sind
