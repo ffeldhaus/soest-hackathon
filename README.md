@@ -54,7 +54,7 @@ Im Unterverzeichnis [`beispiele`](beispiele) gibt es ein [`hallo_welt.ipynb`](be
 
 ## Python
 
-Python ist eine weit verbreitete, einfach zu erlernden Programmiersprache welche insbesondere in der Datenanalyse weit verbreitet ist. Es gibt viele Einführungen und Tutorials wir werden uns jedoch auf die wesentlichen Informationen beschränken um Daten analysieren und visualisieren zu können. Für weitergehende Informationen wird das offizielle (englischsprachige) [The Python Tutorial](https://docs.python.org/3/tutorial/) empfohlen.
+Python ist eine weit verbreitete, einfach zu erlernende Programmiersprache welche insbesondere für die Datenanalyse genutzt wird. Es gibt viele Einführungen und Tutorials, wir werden uns jedoch auf die wesentlichen Informationen beschränken um Daten analysieren und visualisieren zu können. Für weitergehende Informationen wird das offizielle (englischsprachige) [The Python Tutorial](https://docs.python.org/3/tutorial/) empfohlen.
 
 Das Python Tutorial für diesen Hackathon findet sich im [`python_tutorial.ipynb`](beispiele/python_tutiral.ipynb) Jupyter Notebook und kann über folgenden Link in Binder geöffnet werden:
 
@@ -63,5 +63,5 @@ Das Python Tutorial für diesen Hackathon findet sich im [`python_tutorial.ipynb
 ### Aufgaben
 
 - Öffne ein [leeres Jupyter Notebook](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=notebook.ipynb)
-- Schreibe eine Funktion für den *Satz des Pythagoras* mit Parametern für die beiden Katheten `a` und `b`. Die Funktion soll die Hypothenuse `c` ausgeben
-- **Tipp:** Binde das Module `math` ein um mit `math.sqrt()` die Wurzel ziehen zu können
+- Schreibe eine Funktion für den *Satz des Pythagoras* mit Parametern für die beiden Katheten `a` und `b`. Die Funktion soll die Hypotenuse `c` ausgeben
+- **Tipp:** Binde das Modul `math` ein um mit `math.sqrt()` die Wurzel ziehen zu können
