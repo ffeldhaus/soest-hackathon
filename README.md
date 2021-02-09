@@ -67,3 +67,7 @@ Das Python Tutorial für diesen Hackathon findet sich im [`python_tutorial.ipynb
 - Öffne ein [leeres Jupyter Notebook](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=notebook.ipynb)
 - Schreibe eine Funktion für den *Satz des Pythagoras* mit Parametern für die beiden Katheten `a` und `b`. Die Funktion soll die Hypotenuse `c` ausgeben
 - **Tipp:** Binde das Modul `math` ein um mit `math.sqrt()` die Wurzel ziehen zu können
+
+## Pandas
+
+### Aufgaben
