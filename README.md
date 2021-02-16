@@ -50,15 +50,13 @@ Im Unterverzeichnis [`beispiele`](beispiele) befindet sich [`markdown.ipynb`](be
 - Führe das Beispiel mit *Run* aus und verifiziere, dass die Markdown Formatierung korrekt angezeigt wird
 - Speichere das Resultat im Browser Storage, dann ändere etwas und lade dann die vorherige Version aus dem Browser Storage
 
-Im Unterverzeichnis [`beispiele`](beispiele) gibt es ein [`hallo_welt.ipynb`](beispiele/hallo_welt.ipynb) Jupyter Notebook als Beispiel für diese Aufgabe. Es kann über folgenden Link in Binder geöffnet werden:
-
 [`hallo_welt.ipynb` in Binder öffnen](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=beispiele/hallo_welt.ipynb)
 
 ## Python
 
 Python ist eine weit verbreitete, einfach zu erlernende Programmiersprache welche insbesondere für die Datenanalyse genutzt wird. Es gibt viele Einführungen und Tutorials, wir werden uns jedoch auf die wesentlichen Informationen beschränken um Daten analysieren und visualisieren zu können. Für weitergehende Informationen wird das offizielle (englischsprachige) [The Python Tutorial](https://docs.python.org/3/tutorial/) empfohlen.
 
-Das Python Tutorial für diesen Hackathon findet sich im [`python_tutorial.ipynb`](beispiele/python_tutiral.ipynb) Jupyter Notebook und kann über folgenden Link in Binder geöffnet werden:
+Das Python Tutorial für diesen Hackathon findet sich im [`python_tutorial.ipynb`](beispiele/python_tutorial.ipynb) Jupyter Notebook und kann über folgenden Link in Binder geöffnet werden:
 
 [`python_tutorial.ipynb` in Binder öffnen](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=beispiele/python_tutorial.ipynb)
 
@@ -70,4 +68,17 @@ Das Python Tutorial für diesen Hackathon findet sich im [`python_tutorial.ipynb
 
 ## Pandas
 
+Pandas ist ein Python Paket welches performante und benutzerfreundliche Datenstrukturen sowie Datenanalysetools bereitstellt.
+
+Pandas stellt mit Series und Dataframe zwei zentrale Datenstrukturen bereit, die im folgenden Tutorial genauer beschrieben werden. Die Pandas Getting Started Tutorials bieten viele weitergehende Informationen (auf englisch) zu Pandas.
+
+Das Pandas Tutorial für diesen Hackathon findet sich im [`pandas_tutorial.ipynb`](beispiele/pandas_tutorial.ipynb) Jupyter Notebook und kann über folgenden Link in Binder geöffnet werden:
+
+[`pandas_tutorial.ipynb` in Binder öffnen](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=beispiele/pandas_tutorial.ipynb)
+
 ### Aufgaben
+
+- Öffne ein [leeres Jupyter Notebook](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=notebook.ipynb)
+- Suche in der [OpenLigaDB](https://www.openligadb.de/) eine Sportart und Liga deiner Wahl aus und lese die Tabelle dieser Sportart / Liga in einen DataFrame
+- Wie hoch ist die durchschnittliche und die maximale Punktzahl aller Vereine?
+- Überlege dir weitere Abfragen an die Daten
