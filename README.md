@@ -82,3 +82,17 @@ Das Pandas Tutorial für diesen Hackathon findet sich im [`pandas_tutorial.ipynb
 - Suche in der [OpenLigaDB](https://www.openligadb.de/) eine Sportart und Liga deiner Wahl aus und lese die Tabelle dieser Sportart / Liga in einen DataFrame
 - Wie hoch ist die durchschnittliche und die maximale Punktzahl aller Vereine?
 - Überlege dir weitere Abfragen an die Daten
+
+## Datenvisualisierung mit Python, Pandas und Matplotlib
+
+In dem Tutorial Datenvisualisierung mit Python, Pandas und Matplotlib wird gezeigt wie mehrere Tabellen in Pandas miteinander verknüpft werden können und diese dann graphisch mit dem Python Paket [Matplotlib](https://matplotlib.org/stable/index.html) visualisiert werden können.
+
+Das Tutorial für diesen Hackathon findet sich im [`visualisierung_tutorial.ipynb`](beispiele/visualisierung_tutorial.ipynb) Jupyter Notebook und kann über folgenden Link in Binder geöffnet werden:
+
+[`visualisierung_tutorial.ipynb` in Binder öffnen](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=beispiele/visualisierung_tutorial.ipynb)
+
+### Aufgaben
+
+- Öffne ein [leeres Jupyter Notebook](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=notebook.ipynb)
+- Suche in der [OpenLigaDB](https://www.openligadb.de/) eine Sportart und Liga deiner Wahl aus und lese mehrere Tabellen dieser Sportart / Liga aus unterschiedlichen Jahren in einen DataFrame
+- Visualisiere einige Statistiken aus diesen Tabellen wie z.B. die geschossenen Tore der Mannschaft
