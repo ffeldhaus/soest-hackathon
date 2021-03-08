@@ -7,7 +7,7 @@ In diesem Hackathon werden folgende Themen erklärt und gemeinsam ausprobiert:
 - Einführung in [Jupyter Notebooks](https://jupyter-tutorial.readthedocs.io/de/latest/intro.html) und warum  sie hilfreich bei der Datenanalyse sind
 - Einführung in [Markdown](https://de.wikipedia.org/wiki/Markdown) als weiter verbreitete, leicht lesbare Auszeichnungssprache
 - Einführung in die häufig von Datenwissenschaftlern genutzte [Python Programmiersprache](https://www.python.org/)
-- Einführun in die häufig für die Datenverwaltung und -analyse genutzte [Python Bibliothek Pandas](https://de.wikipedia.org/wiki/Pandas_(Software))
+- Einführung in die häufig für die Datenverwaltung und -analyse genutzte [Python Bibliothek Pandas](https://de.wikipedia.org/wiki/Pandas_(Software))
 - Programmatisches abrufen von (Regional-)Statistiken mit Beispielen von [Datenguide](https://datengui.de/)
 - Einführung in die Datenvisualisierung mit Beispielen von [Datawrapper](https://www.datawrapper.de/)
 
@@ -22,7 +22,7 @@ Es wird empfohlen das [Jupyter Tutorial](https://jupyter-tutorial.readthedocs.io
 Jupyter Notebooks können in verschiedenen Umgebungen genutzt werden. Für diesen Hackathon werden wir Binder verwenden, da es komplett kostenlos ist und keinen Account benötigt.
 
 Binder hat folgende Einschränkungen, die beachtet werden sollten:
-  - Sessions werden nach 10 Minuten inaktivität beendet
+  - Sessions werden nach 10 Minuten Inaktivität beendet
   - Sessions bleiben aktiv, solange das Browser Tab aktiv und im Vordergrund ist
   - Modifikationen können nur manuell im Browser gespeichert werden
 
