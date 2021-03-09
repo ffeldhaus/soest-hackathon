@@ -1,6 +1,6 @@
 # Soest Hackathon
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?urlpath=lab/tree/README.md)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?urlpath=lab/tree/notebook.ipynb)
 
 In diesem Hackathon werden folgende Themen erklärt und gemeinsam ausprobiert:
 
@@ -96,3 +96,21 @@ Das Tutorial für diesen Hackathon findet sich im [`visualisierung_tutorial.ipyn
 - Öffne ein [leeres Jupyter Notebook](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=notebook.ipynb)
 - Suche in der [OpenLigaDB](https://www.openligadb.de/) eine Sportart und Liga deiner Wahl aus und lese mehrere Tabellen dieser Sportart / Liga aus unterschiedlichen Jahren in einen DataFrame
 - Visualisiere einige Statistiken aus diesen Tabellen wie z.B. die geschossenen Tore der Mannschaft
+
+## Datenvisualisierung mit Datawrapper
+
+Datawrapper ist ein Webservice um ansprechende, informative und einfach zu nutzende Visualisierungen zu erstellen. In diesem Tutorial werden einige Beispiele gezeigt um Visualisierungen mit Datawrapper zu erstellen.
+
+Das Tutorial für diesen Hackathon findet sich im [`datawrapper_tutorial.ipynb`](beispiele/datawrapper_tutorial.ipynb) Jupyter Notebook und kann über folgenden Link in Binder geöffnet werden:
+
+[`datawrapper_tutorial.ipynb` in Binder öffnen](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?filepath=beispiele/datawrapper_tutorial.ipynb)
+
+### Aufgaben
+
+- Öffne ein [leeres Jupyter Notebook in JupyterLab](https://mybinder.org/v2/gh/ffeldhaus/soest-hackathon/HEAD?urlpath=lab/tree/notebook.ipynb)
+- Schreibe eine Python Funktion welche Würfelwürfe simuliert
+  - Die Funktion soll Würfel mit beliebig vielen Seiten unterstützen. Was ist dennoch ein sinnvolles Maximum?
+  - Die Funktion soll das Werfen mehrerer Würfel gleichzeitig unterstützen. Was ist ein sinnvolles Maximum für die Anzahl der gleichzeitig geworfenen Würfel?
+- Führe nun Würfelwürfe mit mindestens 2 Würfeln gleichzeitig und mindestens 6 Seiten pro Würfel durch und stelle diese als Histogram mithilfe von Datawrapper dar
+- Probiere nun unterschiedliche Anzahl von Würfelwürfen, Anzahl an Würfeln und Seiten pro Würfel
+- Stelle die Ergebnisse grafisch ansprechend mit Datawrapper dar
